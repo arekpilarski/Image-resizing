@@ -1,0 +1,6 @@
+; Imiê:     Arkadiusz
+; Nazwisko: Pilarski
+; Rok akademicki: 2017/2018
+
+LIBRARY DLLinASM
+EXPORTS InterpolacjaDwukwadratowaASM
